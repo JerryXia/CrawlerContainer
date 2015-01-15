@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NodeServer", "NodeServer", "{1A40919F-099D-4137-AA64-C4361E8AC93D}"
+	ProjectSection(SolutionItems) = preProject
+		NodeServer\index.php = NodeServer\index.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Container", "Container", "{30BC6ABB-3FF4-40CA-85EF-0428AAF37C51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{04852637-C468-4BE7-BA38-695380C56D5C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

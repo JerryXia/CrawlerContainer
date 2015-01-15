@@ -1,2 +1,2 @@
 # CrawlerContainer
-This is a  spider container support multiple node server
+This is a crawler container which support multiple node server
